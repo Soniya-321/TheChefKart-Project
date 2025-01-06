@@ -15,7 +15,7 @@
     "sqlite": "^5.1.1"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest", "start": "node app.js"
   },
   "devDependencies": {
     "@types/express": "^5.0.0",
