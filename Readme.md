@@ -26,7 +26,7 @@ $ npm install
 ### **4. Configure Environment Variables**
 Create a `.env` file in the root directory and add the following variables:
 ```env
-PORT=3000
+PORT=3004
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=password
